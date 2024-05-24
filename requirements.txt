@@ -63,13 +63,6 @@ jmespath==1.0.1
 jsii==1.94.0
 keras==2.12.0
 kiwisolver==1.4.4
-libclang==16.0.0
-Markdown==3.4.3
-MarkupSafe==2.1.2
-matplotlib==3.7.1
-matplotlib-inline==0.1.6
-mexc-sdk==0.0.1
-ml-dtypes==0.1.0
 mpmath==1.3.0
 multidict==6.0.4
 networkx==3.2
