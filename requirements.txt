@@ -130,7 +130,6 @@ scipy==1.10.1
 seaborn==0.13.0
 selenium==4.14.0
 serial==0.0.97
-setuptools==70.0.0
 shapely==2.0.2
 six==1.16.0
 sklearn==0.0.post5
