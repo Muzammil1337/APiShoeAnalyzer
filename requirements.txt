@@ -67,13 +67,13 @@ seaborn==0.13.2
 six==1.16.0
 smmap==5.0.1
 sympy==1.12
-tensorboard==2.12.3
-tensorboard-data-server==0.7.2
+tensorboard==2.16.2
+tensorboard-data-server==0.7.0
 tensorflow==2.16.1 
 tensorflow-estimator==2.12.0
-tensorflow-intel==2.16.1
+tensorflow-intel==0.0.1
 tensorflow-io-gcs-filesystem==0.31.0
-termcolor==2.4.0
+termcolor==2.3.0
 thop==0.1.1.post2209072238
 torch==2.1.0
 torchkeras==3.9.5
